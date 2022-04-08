@@ -4,6 +4,7 @@
 ----
 
 
+## Chapter 별 정리
 
 
 #### Chapter 1 [협력하는 객체들의 공동체 ](https://github.com/yeongsik/Object-Orientation-Book/tree/main/oop/src/chapter1)
@@ -13,5 +14,12 @@
 
 ---
 
+### 중요 내용 기록 
+* 
+* 
+* 
+* 
+
+---
 ### 객체지향 연습에 도움되는 글
 [OKKY | 초보 개발자에게 권장하는 객체지향 모델링 공부 방법](https://okky.kr/article/358197)
