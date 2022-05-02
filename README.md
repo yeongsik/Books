@@ -23,3 +23,6 @@
 ---
 ### 객체지향 연습에 도움되는 글
 [OKKY | 초보 개발자에게 권장하는 객체지향 모델링 공부 방법](https://okky.kr/article/358197)
+
+### TIL 
+[Notion](https://devysk.notion.site/3eaf91684827489d8b6e727cc79abeec?v=266fedfba3af4ba2927d024d6dd298a8)
