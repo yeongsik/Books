@@ -1,4 +1,6 @@
 package chapter3;
 
-public interface TrumphHuman {
+public interface TrumphHuman extends TrumphCard {
+
+    void flapWalk();
 }
